@@ -8,8 +8,9 @@
         "php": "^7.3|^8.0",
         "jenssegers/mongodb": "^3.8",
         "laravel/lumen-framework": "^8.0",
-        "machecaz/marlon-lumen": "9999999-dev",
-        "maxsky/lumen-app-key-generator": "^1.0"
+        "machecaz/marlon-lumen": "0.0.2",
+        "maxsky/lumen-app-key-generator": "^1.0",
+        "spatie/laravel-enum": "^2.4"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
