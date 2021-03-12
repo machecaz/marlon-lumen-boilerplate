@@ -1,4 +1,4 @@
-# Marlon Lumen Boilertemplate
+# Marlon Lumen Boilerplate
 
 ## Marlon Dependencies
 
