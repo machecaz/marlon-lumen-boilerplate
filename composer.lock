@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2a3e70a0b421c57b24fb845e2e4c2ec9",
+    "content-hash": "083e43756ab3093c09688b160c852bc1",
     "packages": [
         {
             "name": "brick/math",
@@ -2172,16 +2172,16 @@
         },
         {
             "name": "machecaz/marlon-lumen",
-            "version": "0.0.2",
+            "version": "0.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/machecaz/marlon-lumen.git",
-                "reference": "8c4fcfd17bf0dfe3ada95ab59476296526198ea4"
+                "reference": "7421c6c97c9555886e9aeb7b8ce3b48c43988df1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/machecaz/marlon-lumen/zipball/8c4fcfd17bf0dfe3ada95ab59476296526198ea4",
-                "reference": "8c4fcfd17bf0dfe3ada95ab59476296526198ea4",
+                "url": "https://api.github.com/repos/machecaz/marlon-lumen/zipball/7421c6c97c9555886e9aeb7b8ce3b48c43988df1",
+                "reference": "7421c6c97c9555886e9aeb7b8ce3b48c43988df1",
                 "shasum": ""
             },
             "require": {
@@ -2213,9 +2213,9 @@
             ],
             "support": {
                 "issues": "https://github.com/machecaz/marlon-lumen/issues",
-                "source": "https://github.com/machecaz/marlon-lumen/tree/0.0.2"
+                "source": "https://github.com/machecaz/marlon-lumen/tree/0.0.3"
             },
-            "time": "2021-03-12T12:10:51+00:00"
+            "time": "2021-03-12T20:58:16+00:00"
         },
         {
             "name": "maxsky/lumen-app-key-generator",

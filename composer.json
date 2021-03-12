@@ -8,7 +8,7 @@
         "php": "^7.3|^8.0",
         "jenssegers/mongodb": "^3.8",
         "laravel/lumen-framework": "^8.0",
-        "machecaz/marlon-lumen": "0.0.2",
+        "machecaz/marlon-lumen": "0.0.3",
         "maxsky/lumen-app-key-generator": "^1.0",
         "spatie/laravel-enum": "^2.4"
     },
