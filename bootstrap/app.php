@@ -71,7 +71,8 @@ $app->configure('app');
 */
 
 $app->middleware([
-    Marlon\Lumen\Http\Middlewares\AddHostToHeaders::class
+    Marlon\Lumen\Http\Middleware\ChangeLocaleMiddleware::class,
+    Marlon\Lumen\Http\Middleware\AddHostToHeaders::class,
 ]);
 
 // $app->routeMiddleware([
@@ -93,6 +94,8 @@ $app->middleware([
 // $app->register(App\Providers\AuthServiceProvider::class);
 // $app->register(App\Providers\EventServiceProvider::class);
 
+// Load translations
+$app->register(Overtrue\LaravelLang\TranslationServiceProvider::class);
 
 // Load The Marlon Lumen Provider
 $app->register(Marlon\Lumen\Providers\MarlonLumenServiceProvider::class);
