@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5d347f4ba45ec1fcebc40b35f6a8c47b",
+    "content-hash": "b7e3b8debf22d89a3901023b62a0773f",
     "packages": [
         {
             "name": "brick/math",
@@ -2219,20 +2219,21 @@
         },
         {
             "name": "machecaz/marlon-lumen",
-            "version": "0.0.7",
+            "version": "0.0.14",
             "source": {
                 "type": "git",
-                "url": "https://github.com/machecaz/marlon-lumen.git",
-                "reference": "7117712f350d65ac51ee6b93de4b51b063e332f4"
+                "url": "https://github.com/marlonapp/marlon-lumen.git",
+                "reference": "62978525ae8f31bf840fd12c3a7999eae920dbde"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/machecaz/marlon-lumen/zipball/7117712f350d65ac51ee6b93de4b51b063e332f4",
-                "reference": "7117712f350d65ac51ee6b93de4b51b063e332f4",
+                "url": "https://api.github.com/repos/marlonapp/marlon-lumen/zipball/62978525ae8f31bf840fd12c3a7999eae920dbde",
+                "reference": "62978525ae8f31bf840fd12c3a7999eae920dbde",
                 "shasum": ""
             },
             "require": {
-                "php": "^7.4|^8.0"
+                "php": "^7.4|^8.0",
+                "spatie/laravel-enum": "^2.4"
             },
             "require-dev": {
                 "laravel/lumen": "8.x.x"
@@ -2259,10 +2260,10 @@
                 "validation"
             ],
             "support": {
-                "issues": "https://github.com/machecaz/marlon-lumen/issues",
-                "source": "https://github.com/machecaz/marlon-lumen/tree/0.0.7"
+                "issues": "https://github.com/marlonapp/marlon-lumen/issues",
+                "source": "https://github.com/marlonapp/marlon-lumen/tree/0.0.14"
             },
-            "time": "2021-04-06T12:03:31+00:00"
+            "time": "2021-05-01T06:22:51+00:00"
         },
         {
             "name": "maxsky/lumen-app-key-generator",
